@@ -1,0 +1,11 @@
+{
+  "name": "streaming-fraud-regex",
+  "version": "1.0.0",
+  "description": "40 tested regular expressions for streaming and referral fraud signals (disposable emails, bot user-agents, referral abuse, view inflation, card testing).",
+  "type": "module",
+  "main": "src/patterns.js",
+  "scripts": { "test": "node --test" },
+  "keywords": ["regex", "anti-fraud", "streaming", "referral", "bot-detection", "trust-and-safety"],
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
